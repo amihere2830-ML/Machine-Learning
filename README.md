@@ -6,10 +6,28 @@ This repository showcases skills, publisize projects and track my progress in Da
 <br>
 
 # Machine-Learning Projects
+
+## Table of Contents
+
+- [About Samuel Amihere](#about)
+- [Machine-Learning Projects](#machine-learning-projects)
+  - [1. Linear Regression](#1-linear-regression)
+    - [Project Overview](#project-overview)
+    - [Skills Gained](#skills-gained-in-the-ml-linear-regression-project)
+    - [Code](https://github.com/amihere2830-ML/Machine-Learning/blob/main/Group3_Final_Regression.ipynb)
+  - [2. Loan Application Classification Project](#2-loan-application-classification-project)
+    - [Problem Statement](#problem-statement)
+    - [Objective](#objective)
+    - [Available Information](#available-information)
+    - [Methodology](#methodology)
+    - [Conclusion](#conclusion)
+    - [Skills Gained](#skills-gained)
+    - [Code](https://github.com/amihere2830-ML/Machine-Learning/blob/main/Samuel_Amihere_Classification-Assignment.ipynb)
+
+
+
 ## 1. Linear Regression
 Implement a linear regression predictor from scratch to predict the fire radiation power of various fires in Australia.
-
-**Code:** [`Group3_Final_Regression.ipynb`](https://github.com/amihere2830-ML/Machine-Learning/blob/main/Group3_Final_Regression.ipynb)
 
 ### Skills Gained in the ML Linear Regression Project:
 
@@ -69,8 +87,6 @@ The approach to solving this challenge involves several key steps:
 ## Conclusion
 
 The notebook concludes with a write-up that compares the performance of all models and provides recommendations on the best model based on the analysis. This model is then used to score new customers, aiding the manager in making informed loan approval decisions within the constrained timeframe.
-
-**Code:** [`Samuel_Amihere_Classification.ipynb`](https://github.com/amihere2830-ML/Machine-Learning/blob/main/Samuel_Amihere_Classification-Assignment.ipynb)
 
 ## Skills Gained
 
