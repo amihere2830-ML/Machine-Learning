@@ -9,4 +9,4 @@ This repository showcases skills, publisize projects and track my progress in Da
 1. ## Linear Regression
 Implement a linear regression predictor from scratch to predict the fire radiation power of various fires in Australia.
 
-**Code:** [`Group3_Final_Regression.ipynb`](https://github.com/amihere2830-phd-research/Machine-Learning/blob/main/Group3_Final_Regression.ipynb)  
+**Code:** [`Group3_Final_Regression.ipynb`](https://github.com/amihere2830-ML/Machine-Learning/blob/main/Group3_Final_Regression.ipynb)
